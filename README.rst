@@ -12,7 +12,7 @@ Create a conda environment for `junker`::
     conda create -n env_junker python=3.7
     source activate env_junker
     conda install numpy scipy skimage pyside2
-    pip install mrcz
+    pip install mrcz junker
     
 Usage
 -----

@@ -1,0 +1,5 @@
+pyside2
+mrcz
+skimage
+scipy
+numpy
